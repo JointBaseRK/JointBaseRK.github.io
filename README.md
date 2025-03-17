@@ -12,14 +12,15 @@ The goal of this repository is to hack boxes, and also look at the IOCs from a b
 - General cyber hobbyists / professionals
 
 
-<br></br>
+<br>
+
 
 Below is a set of data for us to track the following:
 - How many boxes have been owned on HTB
 - How many write ups have been completed for the boxes completed on the prior bullet
 - How many of the boxes have we created YouTube videos or Discord presentations for
 
-<br></br>
+<br>
 
 <table>
 <tr></tr>
