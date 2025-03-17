@@ -1,25 +1,31 @@
 <h1>Welcome to Our Blue and Red Team Blog! </h1>
 
+<p> some text after the title here</p>
+
 <table>
   <th> Header 1</th>
   <tr></tr>
+  <td>test</td>
   <td> 
-    <img src= ![yrdy](https://github.com/user-attachments/assets/39640315-04e4-4b30-8d3a-d743a75cab02) alt="Image">
+    <img src= "https://github.com/JointBaseRK/skills-github-pages/blob/main/yrdy.png" alt="Image">
   </td>
-            <tr>
-                <th>Course Name</th>
-                <th>Description</th>
-                <th>Image</th>
-            </tr>
-            <tr>
-                <td>DSA self placed course</td>
-                <td>Learn with gfg</td>
-                <td>
-                  <img src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220519152227/DSA-course-by-Sandeep-Jain-banner.jpg"
-                       alt="Image">
-              </td>
+  <td>tet2</td>
 
-
-  
 </table>
+
+# Welcome to Our Blue and Red Team Blog!
+  <p align="left">
+    Or instead of using a table maybe we could upload the picture locally and then try to align it right? 
+  </p>
+  <img src= "https://github.com/JointBaseRK/skills-github-pages/blob/main/yrdy.png" alt="Image" align=right width=700>
+  <p>this is a test where i am trying to determine how this text is going to play with the picture on the right. At some point does it just push the picture to the next line?
+
+  Nope it looks like it just auto wraps which is nice
+
+  Much prefer this over the table method I think
+  - easy
+  - less HTML to write
+  - kewl
+  
+  </p>
+</body>
