@@ -1,7 +1,7 @@
 <h1>Welcome to Our Blue and Red Team Blog! </h1>
 
 <p> some text after the title here</p>
-# Welcome to Our Blue and Red Team Blog!
+
   <p align="left">
     Or instead of using a table maybe we could upload the picture locally and then try to align it right? 
   </p>
@@ -14,6 +14,4 @@
   - easy
   - less HTML to write
   - kewl
-  
   </p>
-</body>
