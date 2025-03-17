@@ -5,7 +5,7 @@
 Per our titles, we are a couple of senior SOC analysts working at one of the largest MSSPs in the US. Outside of our titles, we are friends cooperating to create a decently large repository of information for new, and experienced cybersecurity enthusiasts looking for detailed write-ups of red / blue team activity. 
 
 <br>
-On very few occassions within my professional career have I had coworkers willing to answer questions / assist on technical investigations or questions, and I am currently looking to bridge this gap within a small community. This repository will also serve as an attempt to bridge this gap, as well as, a community discord server  - K
+On very few occassions within my professional career have I had coworkers willing to answer questions / assist on technical investigations or questions, and I am currently looking to bridge this gap within a small community -K
 
 <h3> What kind of content should I expect to see?</h3>
 <br>
