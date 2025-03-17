@@ -5,7 +5,7 @@
   <p align="left">
     Or instead of using a table maybe we could upload the picture locally and then try to align it right? 
   </p>
-  <img src= "https://github.com/JointBaseRK/skills-github-pages/blob/main/yrdy.png" alt="Image" align=right width=700>
+  <img src= "https://github.com/JointBaseRK/Images/blob/main/yrdy.png" alt="Image" align=right width=700>
   <p>this is a test where i am trying to determine how this text is going to play with the picture on the right. At some point does it just push the picture to the next line?
 
   Nope it looks like it just auto wraps which is nice
