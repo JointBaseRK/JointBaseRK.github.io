@@ -1,4 +1,12 @@
-# Welcome to Our Blue and Red Team Blog!
-[yrdy](https://github.com/user-attachments/assets/bb3f5ad0-02a5-44ec-9480-ad3a3518f39b)
-![yrdy](https://github.com/user-attachments/assets/9f25190f-010f-43d2-be71-c63c4119d460)
+<h1>Welcome to Our Blue and Red Team Blog! </h1>
 
+<table>
+  <th> Header 1</th>
+  <tr></tr>
+  <td> 
+  <img src= "![yrdy](https://github.com/user-attachments/assets/39640315-04e4-4b30-8d3a-d743a75cab02)" alt="Image">
+
+  
+  </td>
+  
+</table>
