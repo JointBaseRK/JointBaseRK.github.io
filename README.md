@@ -40,7 +40,7 @@ Below is a set of data for us to track the following:
   <!--This row denotes how many boxes that have been comped on HTB-->
   <td>10</td>
   <!--This row denotes how many blue and red team write ups have been completed based on HTB-->
-  <td>2</td>
+  <td>1</td>
   <!--This row denotes how many blue and red team write ups have been completed based on HTB and a lecture has been given on Discord-->
   <td>5</td>
   <!--This row denotes how many blue and red team write ups have been completed based on HTB and a lecture has been given on Youtube-->
